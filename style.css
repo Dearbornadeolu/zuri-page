@@ -1146,7 +1146,7 @@ h2 {
 		color: orangered;
 		text-align: center;
 		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-		line-height: 10px;
+		line-height: 15px;
 		font-size: 20px;
 		position: relative;
 	}
@@ -1244,7 +1244,7 @@ h2 {
 
 	.contentsection3rd1 {
 		margin-top: 20px;
-		height: 300px;
+		height: auto;
 		background-color: red;
 		border-radius: 17px;
 		cursor: pointer;
@@ -1288,12 +1288,10 @@ h2 {
 	}
 
 	.contentsection3rd2 {
-		margin-top: 20px;
-		height: 300px;
 		background-color: rgb(253, 230, 230);
 		border-radius: 17px;
 		cursor: pointer;
-		width: 80%;
+		width: 90%;
 		display: block;
 		margin: auto;
 	}
@@ -1319,6 +1317,7 @@ h2 {
 		line-height: 20px;
 		padding: 10px 40px 0 40px;
 		color: black;
+		margin-bottom: 20px;
 	}
 
 	.contentsection3rd2:hover {
